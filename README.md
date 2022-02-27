@@ -1,2 +1,2 @@
 # numpy-template ![license](https://img.shields.io/github/license/pouyaardehkhani/numpy-template.svg) <a href="https://colab.research.google.com/github/pouyaardehkhani/numpy-template/blob/master/numpy_template.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-this is some basic template of how to use numpy for machine learning and statistical analysis or even math problems.
+This is some basic template of how to use numpy for machine learning and statistical analysis or even math problems.
